@@ -3,6 +3,12 @@
 
 ---
 
+> This list is to help navigate the decentralized organization landscape and provide resources to help with everything in the process of launching a successful decentralized organization.
+
+*If you enjoy this list please contribute and share. We are also working on a list to help navigate launching a token sale: [Awesome Token Sale](https://github.com/holographicio/awesome-token-sale)*
+
+---
+
 List of content:
 * Introductory Resources
 * Related Services
