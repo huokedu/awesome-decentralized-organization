@@ -10,13 +10,14 @@
 ---
 
 List of content:
-* Introductory Resources
+* Introduction
 * Related Services
-* Legal Resources
+* Legal
 
 ---
 
-# Introductory Resources
+# Introduction
+
 # Related Services
 
 ### Legal
@@ -28,7 +29,7 @@ List of content:
 * Slovania
   * [NovakRutar](http://www.novakrutar.si/en/) - (Aragon, Cofoundit)
 
-# Legal Resources
+# Legal
 
 ### Legal Structures
 * [Stiftung](https://www.wikiwand.com/en/Stiftung)
